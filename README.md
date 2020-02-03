@@ -9,4 +9,4 @@
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
-![hello](icon48.png "Logo Title Text 1")
+![hello, world](icon48.png "Logo Title Text 1")
